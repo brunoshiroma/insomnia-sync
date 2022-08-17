@@ -1,0 +1,8 @@
+_id: spc_750fb30f63154fa18abb0561fd4f4082
+type: ApiSpec
+parentId: wrk_2b838795ce0e4a66b4aaddf832d7c004
+modified: 1660698586664
+created: 1660696614914
+fileName: k8s-kind-test
+contents: ""
+contentType: yaml
